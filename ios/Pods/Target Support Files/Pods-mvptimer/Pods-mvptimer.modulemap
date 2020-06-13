@@ -1,0 +1,6 @@
+module Pods_mvptimer {
+  umbrella header "Pods-mvptimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+export const mvpDataStrings = {
+  race: [
+    'Formless',
+    'Undead',
+    'Brute',
+    'Plant',
+    'Insect',
+    'Fish',
+    'Demon',
+    'Human',
+    'Angel',
+    'Dragon',
+  ],
+  scale: ['small', 'medium', 'large'],
+  element: [
+    'Neutral',
+    'Water',
+    'Earth',
+    'Fire',
+    'Wind',
+    'Poison',
+    'Holy',
+    'Dark',
+    'Ghost',
+    'Undead',
+  ],
+};

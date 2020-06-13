@@ -1,0 +1,16 @@
+export const colors = {
+  primary: '#FF4A87',
+  secondary: '#14D2E9',
+  black: '#0C2741',
+  grey: '#E5E5E5',
+  neutral: '#C4C4C4',
+  water: '#79A6E3',
+  earth: '#DBAE82',
+  fire: '#FF7472',
+  wind: '#B1F298',
+  poison: '#94F7A9',
+  holy: '#F5FA7F',
+  dark: '#C08DF1',
+  ghost: '#AAAAAA',
+  undead: '#7E7C7C',
+};
