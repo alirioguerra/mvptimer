@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="mvptimer/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvptimer.iml" filepath="$PROJECT_DIR$/.idea/modules/mvptimer.iml" group="mvptimer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1521585290/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1521585290/react-native-community_async-storage.iml" group="mvptimer/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1322482169/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1322482169/react-native-community_masked-view.iml" group="mvptimer/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/794093744/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/794093744/react-native-gesture-handler.iml" group="mvptimer/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1723985880/react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1723985880/react-native-push-notification.iml" group="mvptimer/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/210569068/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/210569068/react-native-reanimated.iml" group="mvptimer/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-728722151/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-728722151/react-native-safe-area-context.iml" group="mvptimer/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1217777777/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1217777777/react-native-screens.iml" group="mvptimer/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-83409667/realm.iml" filepath="$PROJECT_DIR$/.idea/modules/-83409667/realm.iml" group="mvptimer/realm" />
     </modules>
   </component>
 </project>

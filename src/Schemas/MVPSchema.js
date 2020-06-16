@@ -1,0 +1,42 @@
+export default class MVPSchema {
+  static schema = {
+    name: 'MVP',
+    // primaryKey: 'id',
+    properties: {
+      id: { type: 'int', indexed: true },
+      name: 'string',
+      level: 'int',
+      health: 'int',
+      sp: 'int',
+      str: 'int',
+      int: 'int',
+      vit: 'int',
+      dex: 'int',
+      agi: 'int',
+      luk: 'int',
+      element: 'int',
+      scale: 'int',
+      race: 'int',
+      flee: 'int',
+      class: 'int',
+      attr: 'int',
+      spawn: [
+        {
+          mapname: 'string',
+          amount: 'int',
+          respawnTime: 'int',
+        },
+      ],
+      neutral: 'int',
+      water: 'int',
+      earth: 'int',
+      fire: 'int',
+      wind: 'int',
+      poison: 'int',
+      holy: 'int',
+      dark: 'int',
+      ghost: 'int',
+      undead: 'int',
+    },
+  };
+}
